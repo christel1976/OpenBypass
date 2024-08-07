@@ -17,7 +17,9 @@ namespace OpenBypass.Properties {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
         
-        public static Settings Default {
+        public static Set
+        
+        tings Default {
             get {
                 return defaultInstance;
             }
